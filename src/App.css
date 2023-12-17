@@ -36,3 +36,24 @@
     transform: rotate(360deg);
   }
 }
+
+
+.buttonContainer {
+  overflow: hidden;
+  /* background-color: #7b7b7b; */
+  width: 93%;
+  margin-left: 40px;
+  display: flex;
+  
+}
+
+.button {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 10px 10px;
+  text-decoration: none;
+  width: 22%;
+  background-color: #7b7b7b;
+}
